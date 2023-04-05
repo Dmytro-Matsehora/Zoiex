@@ -69,7 +69,7 @@
 <template>
   <v-container class="my-container">
     <v-row no-gutters class="search-box">
-      <a href="/" >
+      <a href="/Zoiex" >
         <img 
           class="logo" 
           src="../assets/logo-light.png" 
